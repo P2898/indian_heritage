@@ -25,10 +25,10 @@ This project is built purely with core web technologies, ensuring fast load time
 
 - `index.html` - The main landing/home page.
 - `packages.html` - Displays available travel packages.
-- `book.html`, `services.html`, `gallery.html`, `review.html`, `contact.html` - Additional pages for various sections of the site.
-- `style.css` - Contains all the styling rules for the website.
-- `script.js` - Contains the logic for the video slider, navbar toggle, and login form popup.
-- `img/` - Directory containing images and videos used across the site.
+- `pages/book.html`, `services.html`, `gallery.html`, `review.html`, `contact.html` - Additional pages for various sections of the site.
+- `assets/css/style.css` - Contains all the styling rules for the website.
+- `assets/js/script.js` - Contains the logic for the video slider, navbar toggle, and login form popup.
+- `assets/img/` - Directory containing images and videos used across the site.
 
 ## ⚙️ How to Run Locally
 
@@ -38,4 +38,5 @@ This project is built purely with core web technologies, ensuring fast load time
 
 ## 🤝 Contributing
 Feel free to fork this project, submit pull requests, or send suggestions to improve the design and functionality!
+
 
