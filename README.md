@@ -45,8 +45,5 @@ indian_heritage/
 ## ⚙️ How to Run Locally
 
 1. Clone or download the repository to your local machine.
-2. Open `index.html` in your preferred web browser to view the application. No build steps or local servers are strictly required!
+2. Open `index.html` in your preferred web browser to view the application. 
 
-## 🚫 Contributing
-
-**Contributions to this project are closed.** This is a personal project used for demonstration and educational purposes, and I am not accepting pull requests, feature requests, or external contributions at this time. Thank you for understanding!
