@@ -23,20 +23,30 @@ This project is built purely with core web technologies, ensuring fast load time
 
 ## 📂 Project Structure
 
-- `index.html` - The main landing/home page.
-- `packages.html` - Displays available travel packages.
-- `pages/book.html`, `services.html`, `gallery.html`, `review.html`, `contact.html` - Additional pages for various sections of the site.
-- `assets/css/style.css` - Contains all the styling rules for the website.
-- `assets/js/script.js` - Contains the logic for the video slider, navbar toggle, and login form popup.
-- `assets/img/` - Directory containing images and videos used across the site.
+```text
+indian_heritage/
+├── index.html            (Main entry point)
+├── README.md             (Project documentation)
+├── pages/                (All secondary HTML pages)
+│   ├── book.html
+│   ├── contact.html
+│   ├── gallery.html
+│   ├── packages.html
+│   ├── review.html
+│   └── services.html
+└── assets/               (All static assets)
+    ├── css/
+    │   └── style.css
+    ├── js/
+    │   └── script.js
+    └── img/              (Images and videos)
+```
 
 ## ⚙️ How to Run Locally
 
 1. Clone or download the repository to your local machine.
-2. Navigate to the `INDIAN-T` directory.
-3. Open `index.html` in your preferred web browser to view the application. No build steps or local servers are strictly required!
+2. Open `index.html` in your preferred web browser to view the application. No build steps or local servers are strictly required!
 
-## 🤝 Contributing
-Feel free to fork this project, submit pull requests, or send suggestions to improve the design and functionality!
+## 🚫 Contributing
 
-
+**Contributions to this project are closed.** This is a personal project used for demonstration and educational purposes, and I am not accepting pull requests, feature requests, or external contributions at this time. Thank you for understanding!
